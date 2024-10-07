@@ -1,0 +1,30 @@
+.top{
+    
+    background-color: orangered;
+    height: 260px;
+   
+}
+#countdown {
+
+    height: 250px;
+    padding-top: 160px;
+    font-style: italic;
+    text-decoration: dotted;
+    padding-left: 670px;
+   
+
+}
+
+.bottom{
+    
+    background-color: green;
+    height: 270px;
+}
+
+.img{
+    display: flex;
+    height: 150px;
+    justify-content: flex-end;
+    position: absolute;
+    left: 640px;
+}
